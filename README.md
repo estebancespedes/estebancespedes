@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Mis lenguajes de programacion</h2>
+<h2 align="left">Herramientas</h2>
 
 ###
 
