@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Estudiante de la Universidad ITM</p>
+<p align="left">Estudiante desarrollo de software Universidad ITM Medellin Colombia</p>
 
 ###
 
